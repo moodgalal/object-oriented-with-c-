@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1457928518 source:f:\my programming work\courses\c++\c++ projects\how to code c++ book\invoice class\invoice implementation.cpp
+	<iostream>
+	"Invoice.h"
+
+1457928643 f:\my programming work\courses\c++\c++ projects\how to code c++ book\invoice class\invoice.h
+	<string>
+
+1457929603 source:f:\my programming work\courses\c++\c++ projects\how to code c++ book\invoice class\main.cpp
+	<iostream>
+	"Invoice.h"
+	<string>
+

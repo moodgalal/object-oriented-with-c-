@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1457908295 source:f:\my programming work\courses\c++\c++ projects\account class\accountclassimplemetation.cpp
+	<iostream>
+	"AccountClassHeader.h"
+
+1457907551 f:\my programming work\courses\c++\c++ projects\account class\accountclassheader.h
+	<string>
+
+1457907902 source:f:\my programming work\courses\c++\c++ projects\account class\main.cpp
+	<iostream>
+	"AccountClassHeader.h"
+
+1457908295 source:f:\my programming work\courses\c++\c++ projects\how to code c++ book\account class\accountclassimplemetation.cpp
+	<iostream>
+	"AccountClassHeader.h"
+
+1457907551 f:\my programming work\courses\c++\c++ projects\how to code c++ book\account class\accountclassheader.h
+	<string>
+
+1457908403 source:f:\my programming work\courses\c++\c++ projects\how to code c++ book\account class\main.cpp
+	<iostream>
+	"AccountClassHeader.h"
+

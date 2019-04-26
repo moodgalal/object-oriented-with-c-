@@ -1,0 +1,6 @@
+F:\My programming work\courses\C++\C++ projects\inheritance\inheritance\bin\Debug\inheritance.exe.config
+F:\My programming work\courses\C++\C++ projects\inheritance\inheritance\bin\Debug\inheritance.exe
+F:\My programming work\courses\C++\C++ projects\inheritance\inheritance\bin\Debug\inheritance.pdb
+F:\My programming work\courses\C++\C++ projects\inheritance\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+F:\My programming work\courses\C++\C++ projects\inheritance\inheritance\obj\Debug\inheritance.exe
+F:\My programming work\courses\C++\C++ projects\inheritance\inheritance\obj\Debug\inheritance.pdb

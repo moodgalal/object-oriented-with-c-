@@ -1,0 +1,6 @@
+F:\My programming work\courses\C++\C++ projects\MyExam\MyExam\bin\Debug\MyExam.exe.config
+F:\My programming work\courses\C++\C++ projects\MyExam\MyExam\bin\Debug\MyExam.exe
+F:\My programming work\courses\C++\C++ projects\MyExam\MyExam\bin\Debug\MyExam.pdb
+F:\My programming work\courses\C++\C++ projects\MyExam\MyExam\obj\Debug\MyExam.csprojResolveAssemblyReference.cache
+F:\My programming work\courses\C++\C++ projects\MyExam\MyExam\obj\Debug\MyExam.exe
+F:\My programming work\courses\C++\C++ projects\MyExam\MyExam\obj\Debug\MyExam.pdb

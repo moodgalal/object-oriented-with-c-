@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1457382329 source:f:\my programming work\courses\c++\c++ projects\my training\main.cpp
+	<iostream>
+	<string>
+
+1459167214 source:f:\my programming work\courses\c++\c++ projects\how to code c++ book\my trainig 1\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cmath>
+	<ctime>
+
